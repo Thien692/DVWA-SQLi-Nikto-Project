@@ -38,12 +38,15 @@ You can find screenshots of:
 - Cookie session inspection
 - SQLMap payloads
 - Nikto scan results
-- Successful login and exploitation
-### Screenshots & Results  
+- Successful login and eẽploitation
+
+<details>
+  <summary><strong>Screenshots & Results</strong></summary>
+
 You can view detailed scan results and screenshots in this issue:  
 [DVWA Scan Output with Nikto & SQLMap](https://github.com/Thien692/DVWA-SQLi-Nikto-Project/issues/1)
----
 
+</details>
 ## 📚 Skills Gained
 
 - Vulnerability Scanning (Nikto)
