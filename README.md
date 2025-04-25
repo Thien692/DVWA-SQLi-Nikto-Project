@@ -39,7 +39,9 @@ You can find screenshots of:
 - SQLMap payloads
 - Nikto scan results
 - Successful login and exploitation
-
+### Screenshots & Results  
+You can view detailed scan results and screenshots in this issue:  
+[DVWA Scan Output with Nikto & SQLMap](https://github.com/Thien692/DVWA-SQLi-Nikto-Project/issues/1)
 ---
 
 ## 📚 Skills Gained
