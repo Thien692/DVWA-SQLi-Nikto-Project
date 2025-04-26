@@ -38,7 +38,7 @@ You can find screenshots of:
 - Cookie session inspection
 - SQLMap payloads
 - Nikto scan results
-- Successful login and eẽploitation
+- Successful login and exploitation 
 
 <details>
   <summary><strong>Screenshots & Results</strong></summary>
